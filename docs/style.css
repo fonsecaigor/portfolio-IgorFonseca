@@ -154,7 +154,7 @@ nav ul li a:hover::after {
   padding: 2rem;
   border-radius: 15px;
   transition: 0.3s;
-  min-height: 300px;                /* 🔹 aumenta a altura mínima */
+  min-height: 350px;                /* 🔹 aumenta a altura mínima */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
